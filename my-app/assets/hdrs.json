@@ -1,0 +1,174 @@
+[
+      {
+        "id": 1,
+        "question": "How often do you feel sad, hopeless, helpless, or worthless?",
+        "options": [
+          { "text": "I don’t feel sad or hopeless.", "score": 0 },
+          { "text": "I feel sad or hopeless only when someone asks me about it.", "score": 1 },
+          { "text": "I feel sad or hopeless and talk about it without being asked.", "score": 2 },
+          { "text": "My sadness or hopelessness is visible in my facial expressions, posture, or voice, and I often feel like crying.", "score": 3 },
+          { "text": "I feel nothing but sadness, hopelessness, or helplessness, and I express it both verbally and non-verbally all the time.", "score": 4 }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "How often do you feel guilty?",
+        "options": [
+          { "text": "I don’t feel guilty.", "score": 0 },
+          { "text": "I feel like I’ve let people down.", "score": 1 },
+          { "text": "I keep thinking about mistakes I’ve made or bad things I’ve done in the past.", "score": 2 },
+          { "text": "I feel like my current illness is a punishment for my past actions.", "score": 3 },
+          { "text": "I hear voices accusing or condemning me, or I see threatening things.", "score": 4 }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Do you ever think about suicide or death?",
+        "options": [
+          { "text": "I don’t think about suicide or death.", "score": 0 },
+          { "text": "Sometimes, I feel like life isn’t worth living.", "score": 1 },
+          { "text": "I wish I were dead, or I’ve thought about dying.", "score": 2 },
+          { "text": "I’ve thought about or planned suicide.", "score": 3 },
+          { "text": "I’ve tried to commit suicide.", "score": 4 }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "How easily do you fall asleep at night?",
+        "options": [
+          { "text": "I fall asleep easily at night.", "score": 0 },
+          { "text": "I occasionally have trouble falling asleep, usually taking more than 30 minutes.", "score": 1 },
+          { "text": "I struggle every night to fall asleep.", "score": 2 }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Do you wake up during the night?",
+        "options": [
+          { "text": "I sleep through the night without any problems.", "score": 0 },
+          { "text": "I wake up during the night and feel restless.", "score": 1 },
+          { "text": "I wake up during the night and sometimes get out of bed.", "score": 2 }
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Do you wake up early in the morning?",
+        "options": [
+          { "text": "I don’t wake up early in the morning.", "score": 0 },
+          { "text": "I wake up early but can fall back asleep.", "score": 1 },
+          { "text": "I wake up early and can’t fall asleep again.", "score": 2 }
+        ]
+      },
+      {
+        "id": 7,
+        "question": "How does your illness affect your work or hobbies?",
+        "options": [
+          { "text": "I have no trouble doing my work or hobbies.", "score": 0 },
+          { "text": "I sometimes feel too tired, weak, or incapable of doing activities or work.", "score": 1 },
+          { "text": "I’ve lost interest in my work or hobbies.", "score": 2 },
+          { "text": "I’m spending less time doing activities, and my productivity has decreased.", "score": 3 },
+          { "text": "I’ve completely stopped working or doing activities because of my illness.", "score": 4 }
+        ]
+      },
+      {
+        "id": 8,
+        "question": "Has your thinking or speech slowed down?",
+        "options": [
+          { "text": "My speech and thoughts are normal.", "score": 0 },
+          { "text": "I speak or think a little slower than usual.", "score": 1 },
+          { "text": "It’s obvious that my speech and thoughts are slower.", "score": 2 },
+          { "text": "It’s difficult to have a conversation with me.", "score": 3 },
+          { "text": "I’m barely able to think or speak.", "score": 4 }
+        ]
+      },
+      {
+        "id": 9,
+        "question": "How restless do you feel?",
+        "options": [
+          { "text": "I don’t feel restless.", "score": 0 },
+          { "text": "I’m fidgety at times.", "score": 1 },
+          { "text": "I often play with my hands, hair, or other things.", "score": 2 },
+          { "text": "I frequently move around and can’t sit still.", "score": 3 },
+          { "text": "I constantly wring my hands, bite my nails or lips, or pull my hair.", "score": 4 }
+        ]
+      },
+      {
+        "id": 10,
+        "question": "How often do you feel anxious?",
+        "options": [
+          { "text": "I don’t feel anxious.", "score": 0 },
+          { "text": "I often feel tense or irritable.", "score": 1 },
+          { "text": "I worry about small or insignificant things.", "score": 2 },
+          { "text": "I appear apprehensive, and it shows in my face or speech.", "score": 3 },
+          { "text": "I feel scared without anyone asking me about it.", "score": 4 }
+        ]
+      },
+      {
+        "id": 11,
+        "question": "Do you experience physical symptoms of anxiety?",
+        "options": [
+          { "text": "I don’t have any physical symptoms of anxiety.", "score": 0 },
+          { "text": "I have mild physical symptoms like a dry mouth or indigestion.", "score": 1 },
+          { "text": "I have moderate physical symptoms like palpitations or cramps.", "score": 2 },
+          { "text": "My physical symptoms are severe and hard to manage.", "score": 3 },
+          { "text": "My physical symptoms are overwhelming and prevent me from functioning.", "score": 4 }
+        ]
+      },
+      {
+        "id": 12,
+        "question": "Do you have any digestive problems?",
+        "options": [
+          { "text": "I have no digestive problems.", "score": 0 },
+          { "text": "I don’t feel like eating but I can still eat without being prompted.", "score": 1 },
+          { "text": "I have trouble eating and need encouragement or medication to help with digestion.", "score": 2 }
+        ]
+      },
+      {
+        "id": 13,
+        "question": "Do you experience physical discomfort or tiredness?",
+        "options": [
+          { "text": "I don’t have any physical discomfort.", "score": 0 },
+          { "text": "I feel heaviness in my limbs, back, or head, and I get tired easily.", "score": 1 },
+          { "text": "I have clear symptoms of discomfort or tiredness.", "score": 2 }
+        ]
+      },
+      {
+        "id": 14,
+        "question": "Do you experience any genital symptoms, such as changes in libido or menstrual issues?",
+        "options": [
+          { "text": "I don’t have any genital symptoms.", "score": 0 },
+          { "text": "I’ve noticed mild issues like a decrease in sexual desire.", "score": 1 },
+          { "text": "I’ve experienced severe issues like a complete loss of libido or menstrual disturbances.", "score": 2 }
+        ]
+      },
+      {
+        "id": 15,
+        "question": "How much do you worry about your health?",
+        "options": [
+          { "text": "I’m not worried about my health.", "score": 0 },
+          { "text": "I’m somewhat preoccupied with my health or bodily functions.", "score": 1 },
+          { "text": "I’m overly focused on my health.", "score": 2 },
+          { "text": "I frequently complain about my health or seek help for it.", "score": 3 },
+          { "text": "I believe I have a serious illness and think about it all the time.", "score": 4 }
+        ]
+      },
+      {
+        "id": 16,
+        "question": "Do you feel you have lost weight recently?",
+        "options": [
+          { "text": "I haven’t lost any weight.", "score": 0 },
+          { "text": "I think I may have lost some weight due to my illness.", "score": 1 },
+          { "text": "I’m sure I’ve lost weight.", "score": 2 },
+          { "text": "My weight hasn’t been measured.", "score": 3}
+                ]
+    },
+    {
+        "id": 17,
+        "question": "How aware are you of your illness?",
+        "options": [
+            { "text": "I know I’m depressed and sick.", "score": 0 },
+            { "text": "I know I’m sick, but I think it’s due to things like bad food, overwork, or needing rest.", "score": 1 },
+            { "text": "I don’t think I’m sick at all.", "score": 2 }
+                ]
+              }
+            ]
