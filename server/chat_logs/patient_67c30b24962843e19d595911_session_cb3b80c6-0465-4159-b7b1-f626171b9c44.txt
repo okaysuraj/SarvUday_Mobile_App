@@ -1,0 +1,9 @@
+Patient ID: 67c30b24962843e19d595911
+Session ID: cb3b80c6-0465-4159-b7b1-f626171b9c44
+Date: 2025-06-03T16:04:43.282Z
+Total Messages: 1
+==================================================
+
+Question 1: hi I am feeling pressure of exams lately
+Answer 1: Hi, it's good to have you here. I can understand how the pressure of exams could be overwhelming for someone like you. Can you tell me more about what specifically is causing this stress?
+

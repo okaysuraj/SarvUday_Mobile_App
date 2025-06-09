@@ -1,0 +1,14 @@
+Patient ID: 507f1f77bcf86cd799439011
+Session ID: 123e4567-e89b-12d3-a456-426614174000
+Date: 2024-01-15T10:30:00.000Z
+Total Messages: 3
+==================================================
+
+Question 1: Hello, I'm feeling anxious today
+Answer 1: I understand you're feeling anxious. Can you tell me more about what's causing these feelings?
+
+Question 2: I have a big presentation at work tomorrow
+Answer 2: Work presentations can definitely cause anxiety. Have you prepared for it? Sometimes breaking down the preparation into smaller steps can help reduce anxiety.
+
+Question 3: Yes, I've prepared but I'm still worried about forgetting something
+Answer 3: It's natural to have those concerns. Consider doing a practice run or creating a simple checklist of key points. Remember, being well-prepared as you are is already a great step.

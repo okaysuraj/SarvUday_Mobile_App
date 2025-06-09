@@ -1,0 +1,42 @@
+Patient ID: 67c30b24962843e19d595911
+Session ID: d8c72465-019f-48c1-9919-48c497f0052f
+Date: 2025-06-03T17:11:27.056Z
+Total Messages: 12
+==================================================
+
+Question 1: Hi
+Answer 1: Hello. I am here to listen and help you with any mental health issues or questions about mental health. You can talk to me like a friend.
+
+Question 2: I don't have job so I am very depressed help me
+Answer 2: Hi. It takes courage to reach out for help, especially when you're feeling depressed without a job. I'm here to listen and support you. Can you tell me more about how you feel?
+
+Question 3: Not well
+Answer 3: I understand that not feeling well can make it difficult to function in everyday life. Depression is a common response to stress or loss, but it's important to remember that there are ways to manage and improve your mental health. What do you think has contributed to your feelings of depression?
+
+Question 4: What are the way you have so I can dealt with it
+Answer 4: Well, it's great that you're thinking about ways to deal with your depression. One approach is to focus on self-care and finding activities that bring joy or help you relax. What are some things you enjoy doing?
+
+Question 5: I enjooy playing cricket but the condition does not support me to play cricket
+Answer 5: It's understandable that your health conditions may limit certain activities, but finding other ways to engage in hobbies and interests can still provide a sense of joy and fulfillment. What are some things you'd like to try instead?
+
+Question 6: I don't have friend too
+Answer 6: It's important to have supportive relationships, especially during difficult times. Building friendships can provide emotional support and help alleviate feelings of loneliness. Do you have any ideas on how to meet new people or reconnect with old friends?
+
+Question 7: No
+Answer 7: That sounds challenging,. It may be helpful to reach out to organizations, clubs, or online communities that share your interests or are focused on health issues. Is there a particular group you'd like to join?
+
+Question 8: I don't have ideas to how to ,meet new people
+Answer 8: That's understandable,. In times of isolation, it may be helpful to explore virtual spaces where you can connect with others who share similar interests. Are there any online communities or social media groups you'd like to try?
+
+Question 9: Yes Instagram  and many whatsup group are there but does not want to talk with anyone
+Answer 9: It's common to feel apprehensive about opening up to others, especially when we're feeling isolated. Remember that you have the right to set boundaries and only engage in conversations that make you comfortable. How can I support you during this challenging time?
+
+Question 10: Help me to get out of depression
+Answer 10: I'm glad you reach out,. It takes courage to acknowledge our feelings, even if they're difficult to express. Let's work together to find ways to manage your symptoms and improve your overall well-being. What are some activities or hobbies that bring you joy?
+
+Question 11: Ok I don't want to talk anymore
+Answer 11: I understand,. Sometimes, opening up about our emotions can be overwhelming. Take all the time you need to process your thoughts and feelings. Remember, it's okay to prioritize self-care and take breaks when needed. You're not alone in this journey towards healing.
+
+Question 12: Ok
+Answer 12: I'm glad you reached out,. It shows courage and a willingness to work through your challenges. Remember, therapy is a collaborative process where we explore various strategies to help you navigate your emotions and find ways to improve your mental well-being. Would you like me to guide you in starting therapy?
+
